@@ -7,7 +7,7 @@ book[1].after(book[0]);
 book[4].after(book[3]);
 book[5].after(book[2]);
 
-document.querySelector("body").style.backgroundImage = 'url(image/adv.jpg)';
+document.querySelector("body").style.backgroundImage = 'url(image/you-dont-know-js.jpg)';
 
 
 const titleBook = document.querySelectorAll('.book>h2');
